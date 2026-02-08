@@ -1,0 +1,16 @@
+# Compilados Java
+bin/
+*.class
+
+# Eclipse
+.metadata
+.settings/
+.project
+.classpath
+
+# Temporários
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
